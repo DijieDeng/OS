@@ -1,10 +1,10 @@
 /*
  * CMOS Real-time Clock
- * SKELETON IMPLEMENTATION -- TO BE FILLED IN FOR TASK (3)
+ * SKELETON IMPLEMENTATION -- TO BE FILLED IN FOR TASK (1)
  */
 
 /*
- * STUDENT NUMBER: s1630726
+ * STUDENT NUMBER: s1810150
  */
 #include <infos/drivers/timer/rtc.h>
 #include <infos/define.h>
